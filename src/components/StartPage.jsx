@@ -28,6 +28,7 @@ export default function StartPage() {
   useEffect(() => {
     //letsPlay()
 }, [letsPlay]);
+
   return (
     <div className='startPage'>
       <div className="wrapper">

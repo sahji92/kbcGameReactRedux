@@ -1,5 +1,5 @@
-import { createSlice, createAsyncThunk } from "@redux/toolkit";
 //using thunk to api asynchronously
+import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 //createAsyncThunk provided by redux toolkit so that we dont need to insatll thunk saperately
 export const getQuestions = createAsyncThunk(
   "questions/getQuestions",
