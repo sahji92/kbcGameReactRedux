@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kbcGameReactRedux/static/css/main.f51340c3.css",
+    "main.js": "/kbcGameReactRedux/static/js/main.39a0041a.js",
+    "static/js/845.dd515f11.chunk.js": "/kbcGameReactRedux/static/js/845.dd515f11.chunk.js",
+    "static/js/787.d5fdaf46.chunk.js": "/kbcGameReactRedux/static/js/787.d5fdaf46.chunk.js",
+    "static/media/giphy.gif": "/kbcGameReactRedux/static/media/giphy.d10669918a95b413ceb3.gif",
+    "static/media/main.mp3": "/kbcGameReactRedux/static/media/main.707d9e4a37c306ebb27a.mp3",
+    "static/media/bg.jpeg": "/kbcGameReactRedux/static/media/bg.c137ccd722d64133b4df.jpeg",
+    "static/media/sounds_play.mp3": "/kbcGameReactRedux/static/media/sounds_play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/sounds_correct.mp3": "/kbcGameReactRedux/static/media/sounds_correct.160572d72c858155072e.mp3",
+    "static/media/sounds_wrong.mp3": "/kbcGameReactRedux/static/media/sounds_wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/kbcGameReactRedux/index.html",
+    "main.f51340c3.css.map": "/kbcGameReactRedux/static/css/main.f51340c3.css.map",
+    "main.39a0041a.js.map": "/kbcGameReactRedux/static/js/main.39a0041a.js.map",
+    "845.dd515f11.chunk.js.map": "/kbcGameReactRedux/static/js/845.dd515f11.chunk.js.map",
+    "787.d5fdaf46.chunk.js.map": "/kbcGameReactRedux/static/js/787.d5fdaf46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51340c3.css",
+    "static/js/main.39a0041a.js"
+  ]
+}
