@@ -107,6 +107,9 @@
   background: red;
 }
 
+.btn:hover{
+  background-color: #22074d;
+}
 .content {
   background: linear-gradient(#100241, black);
 }

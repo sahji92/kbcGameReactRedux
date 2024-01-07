@@ -26,7 +26,7 @@ export default function StartPage() {
   }
 
   useEffect(() => {
-    //letsPlay()
+    letsPlay()
 }, [letsPlay]);
 
   return (

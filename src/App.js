@@ -1,10 +1,13 @@
 import './App.css';
-import StartPage from './components/startPage';
+import { useSelector} from 'react-redux'
+import GameScreen from './components/GameScreen';
+import StartPage from './components/StartPage';
 
 function App() {
+  const gameStatus = useSelector((state) => state.gameData.gameStatus)
   return (
     <div className="App">
-      <StartPage/>
+      {gameStatus === 'start' ? <StartPage/> : <GameScreen />}
     </div>
   );
 }
